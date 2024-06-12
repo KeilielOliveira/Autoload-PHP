@@ -22,7 +22,7 @@ new Autoload\Autoload([
 
 Por horá somente duas funcionalidades foram implementadas. O registro de namespaces para carregar classes e a possibilidade de tentar carregar classes não registradas.
 
-Para tentar carregar as classes não registradas deve-se passar um segundo parâmetro para o contrutor.
+Para tentar carregar as classes não registradas deve-se passar um segundo parâmetro para o construtor.
 
 **Exemplo:**
 ```php
